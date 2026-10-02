@@ -1,1 +1,1 @@
-window.MOKOROSI_SUPABASE={url:'YOUR_SUPABASE_PROJECT_URL',anonKey:'YOUR_SUPABASE_PUBLISHABLE_OR_ANON_KEY',whatsappFunctionUrl:'YOUR_SUPABASE_FUNCTION_URL/send-whatsapp'};
+window.MOKOROSI_SUPABASE={url:'https://buqvvtjppcumlxxwdahs.supabase.co',anonKey:'sb_publishable_uTqpWWmeMvbrG0A3nV325A_21SC0X1q'};
