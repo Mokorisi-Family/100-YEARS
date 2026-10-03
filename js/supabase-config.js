@@ -1,1 +1,1 @@
-window.MOKOROSI_SUPABASE={url:'https://buqvvtjppcumlxxwdahs.supabase.co',anonKey:'sb_publishable_uTqpWWmeMvbrG0A3nV325A_21SC0X1q'};
+window.MOKOROSI_SUPABASE={url:'https://buqvvtjppcumlxxwdahs.supabase.co',anonKey:'sb_publishable_uTqpWWmeMvbrG0A3nV325A_21SC0X1q',whatsappFunctionUrl:'https://buqvvtjppcumlxxwdahs.supabase.co/functions/v1/send-whatsapp'};
