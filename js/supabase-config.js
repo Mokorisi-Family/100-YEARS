@@ -1,1 +1,0 @@
-window.MOKOROSI_SUPABASE={url:'https://buqvvtjppcumlxxwdahs.supabase.co',anonKey:'sb_publishable_uTqpWWmeMvbrG0A3nV325A_21SC0X1q'};
